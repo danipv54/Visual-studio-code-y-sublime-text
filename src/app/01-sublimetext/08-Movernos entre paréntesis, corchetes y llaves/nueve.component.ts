@@ -8,7 +8,7 @@ Comado para:
                                                |
 Windows y Linux: Ctrl + M
                                                |
-MAC: ⌘ + Shift + M
+MAC: ⌃ + M
                                                |
 ________________________________________________
  -->**/
