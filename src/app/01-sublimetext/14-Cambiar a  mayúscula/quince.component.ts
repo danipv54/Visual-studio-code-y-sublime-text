@@ -8,7 +8,7 @@ Comado para:
                                                |
 Windows y Linux: Ctrl +  KU
                                                |
-MAC: ⌘ + Shift +  ↑
+MAC: ⌘ + K, ⌘ + U
                                                |
 ________________________________________________
  -->**/
