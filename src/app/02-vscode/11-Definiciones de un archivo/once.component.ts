@@ -11,6 +11,21 @@ export class OnceComponent implements OnInit {
 
 
 
+/*
+<!---------------------------------------------
+
+----------------------                         |
+                                     
+                                               |
+Comado para:
+                                               |
+Windows y Linux: Ctrl+shift + O 
+                                               |
+MAC:  ⌘+shift + O
+ 
+                                               |
+________________________________________________
+ -->**/
 
 
 
