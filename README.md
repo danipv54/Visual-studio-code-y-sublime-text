@@ -38,7 +38,6 @@ Sublime text
 ```
 * [Emmet](https://docs.emmet.io/cheat-sheet/) 
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) 
-* [ColorPicker](https://packagecontrol.io/packages/ColorPicker) 
 * [Seti UI](https://packagecontrol.io/packages/Seti_UI) 
 
 ```
