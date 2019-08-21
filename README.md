@@ -38,7 +38,8 @@ Sublime text
 ```
 * [Emmet](https://docs.emmet.io/cheat-sheet/) 
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) 
-* [Seti UI](https://packagecontrol.io/packages/Seti_UI) 
+* [ColorPicker](https://packagecontrol.io/packages/ColorPicker) 
+
 
 ```
 Navegador
