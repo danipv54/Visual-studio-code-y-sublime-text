@@ -31,7 +31,7 @@ Visual studio code
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 
 
-* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) 
+
 
 ```
 Sublime text
