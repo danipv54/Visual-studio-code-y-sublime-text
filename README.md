@@ -30,6 +30,12 @@ Visual studio code
 ```
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 
+* [PolaCode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+* [powermode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+
 
 
 
@@ -38,6 +44,8 @@ Sublime text
 ```
 * [Emmet](https://docs.emmet.io/cheat-sheet/) 
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) 
+* []()
+* []()
 
 
 
